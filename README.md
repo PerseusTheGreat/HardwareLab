@@ -16,7 +16,7 @@ D:\>prospect @hardware-id @printing-style "@caption"
 | :---: | --- |
 | hardware-id | `bios`<br>`system`<br>`board`<br>`cpu`<br>`storage`<br>`network`<br><br>[**blank**]: will be interpreted as `bios`. |
 | printing-style | `list`<br>`table`<br><br>[**blank**]: will be interpreted as `list`. |
-| caption | ny description as you wish, wrapped by double quots(")<br><br>[**blank**]: **hardware-id** value will be used instead. |
+| caption | Any description as you wish, wrapped by double quots(")<br><br>[**blank**]: **hardware-id** value will be used instead. |
 
 ### Examples:
 | Command | Description |
