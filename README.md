@@ -138,6 +138,11 @@ D:\>prospect bios table "My BIOS"
 
 Press any key to exit...
 ```
+
+## Limitations
+  - Just works on Microsoft Windows 10+
+  - Needs Microsoft .NET 7.0 for building and execution
+
 ## Creator
 
 **Arash Laylazi**
